@@ -17,7 +17,9 @@ localhost:8080.
 Per ottenere i vettori è possibile usare anche l'interfaccia grafica: 
 
 <b><i>Esempio</i></b>
+
 <b><i>Esecuzione</i></b>
 ![Esempio_Inerf1](https://user-images.githubusercontent.com/75088702/141351790-96028780-fe87-4d76-a7b5-308c0a43834b.png)
+
 <b><i>Risultato</i></b>
 ![Esempio_Interf2](https://user-images.githubusercontent.com/75088702/141351951-2943f3ea-4fe2-44ae-8421-0c04aa481a8b.png)
