@@ -55,3 +55,11 @@ Per quanto riguarda la rotta /alljobs abbiamo:
 ![Local_2](https://user-images.githubusercontent.com/75088702/141355091-296ddc71-957a-496c-a79c-9afe95a0b94f.png)
 ![console_2](https://user-images.githubusercontent.com/75088702/141355099-008ee8de-537d-4127-b91b-bb51b3e4854b.png)
 
+
+# Test
+
+Abbiamo implementato 3 unità di test:
+
+1.<b>ArrotondaTest</b>: Verifica che la funzione "arrotonda (double d)" ,presente in  Stats.java e StatsG.java, arrotondi a due cifre decimali.
+2.<b>exceptionTesting</b>: Verifica che in caso di cità invalida venga segnalato l'errore con l'output corretto.
+3. <b>aTesting<b/>: Verfifica che il metodo "public Vector<DownloadCity> filtra" presente in FiltersLavori.java dati tre parametri restituisce quello corretto.
