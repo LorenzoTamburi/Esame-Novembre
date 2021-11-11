@@ -52,4 +52,6 @@ Per quanto riguarda la rotta /alljobs abbiamo:
 
 ![Local_1](https://user-images.githubusercontent.com/75088702/141354799-4b2c7735-18fd-44e4-8d4e-8e5423e985ca.png)
 ![Console_1](https://user-images.githubusercontent.com/75088702/141354823-55d52734-a9fd-4b7b-933e-8b01ab5b31c2.png)
+![Local_2](https://user-images.githubusercontent.com/75088702/141355091-296ddc71-957a-496c-a79c-9afe95a0b94f.png)
+![console_2](https://user-images.githubusercontent.com/75088702/141355099-008ee8de-537d-4127-b91b-bb51b3e4854b.png)
 
