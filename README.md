@@ -60,6 +60,8 @@ Per quanto riguarda la rotta /alljobs abbiamo:
 
 Abbiamo implementato 3 unità di test:
 
-1.<b>ArrotondaTest</b>: Verifica che la funzione "arrotonda (double d)" ,presente in  Stats.java e StatsG.java, arrotondi a due cifre decimali.
+1.<b>arrotondaTest</b>: Verifica che la funzione "arrotonda (double d)" ,presente in  Stats.java e StatsG.java, arrotondi a due cifre decimali.
+
 2.<b>exceptionTesting</b>: Verifica che in caso di cità invalida venga segnalato l'errore con l'output corretto.
+
 3. <b>aTesting<b/>: Verfifica che il metodo "public Vector<DownloadCity> filtra" presente in FiltersLavori.java dati tre parametri restituisce quello corretto.
