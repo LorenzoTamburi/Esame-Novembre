@@ -50,21 +50,21 @@ Per quanto riguarda la rotta /stats abbiamo:
 
 <b><i>Citta' non valida</i></b> quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
 
-"Tipo linguaggio non valido" quando l'utente inserisce un linguaggio di programmazione che non corrispoinde ai 3 sopra citati
+<b><i>Tipo linguaggio non valido</i></b> quando l'utente inserisce un linguaggio di programmazione che non corrispoinde ai 3 sopra citati
 
 
 Per quanto riguarda la rotta /jobs abbiamo:
 
-"Citta' non valida" quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
+<b><i>Citta' non valida</i></b> quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
 
-"Parametro per remoto non valido" quando l'utente inserisce un un parametro che non corrisponde a quelli che indicano se il lavoro si può  svolgere in remoto o meno
+<b><i>Parametro per remoto non valido</i></b> quando l'utente inserisce un un parametro che non corrisponde a quelli che indicano se il lavoro si può  svolgere in remoto o meno
 
-"Tipo contratto non valido" quando l'utente inserisce un un parametro che non corrisponde a quelli che indicano se il lavoro è full-time o part-time
+<b><i>Tipo contratto non valido</i></b> quando l'utente inserisce un un parametro che non corrisponde a quelli che indicano se il lavoro è full-time o part-time
 
 
 Per quanto riguarda la rotta /alljobs abbiamo:
 
-"Citta' non valida" quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
+<b><i>Citta' non valida</i></b> quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
 
 <b><i>Esempio</i></b>
 
