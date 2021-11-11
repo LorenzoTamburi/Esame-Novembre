@@ -65,3 +65,7 @@ Abbiamo implementato 3 unità di test:
 2.<b>exceptionTesting</b>: Verifica che in caso di cità invalida venga segnalato l'errore con l'output corretto.
 
 3.<b>aTesting</b>: Verifica che il metodo "public Vector<DownloadCity> filtra" presente in FiltersLavori.java dati tre parametri restituisce quello corretto.
+
+# Autori
+  Il programma è stato sviluppato in modo equo da:
+  Tamburi Lorenzo (s1096088) e Taras Adrian Corneliu (s1096692)
