@@ -23,3 +23,28 @@ Per ottenere i vettori è possibile usare anche l'interfaccia grafica:
 
 <b><i>Risultato</i></b>
 ![Esempio_Interf2](https://user-images.githubusercontent.com/75088702/141351951-2943f3ea-4fe2-44ae-8421-0c04aa481a8b.png)
+
+# Gestione Eccezioni
+
+Per gestire le eccezioni abbiamo creato 3 classi: ApiRequestExceptions, ExceptionsGeneraln e ExceptionsHandler
+
+Per quanto riguarda la rotta /stats abbiamo:
+
+"Citta' non valida" quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
+
+"Tipo linguaggio non valido" quando l'utente inserisce un linguaggio di programmazione che non corrispoinde ai 3 sopra citati
+
+
+Per quanto riguarda la rotta /jobs abbiamo:
+
+"Citta' non valida" quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
+
+"Parametro per remoto non valido" quando l'utente inserisce un un parametro che non corrisponde a quelli che indicano se il lavoro si può  svolgere in remoto o meno
+
+"Tipo contratto non valido" quando l'utente inserisce un un parametro che non corrisponde a quelli che indicano se il lavoro è full-time o part-time
+
+
+Per quanto riguarda la rotta /alljobs abbiamo:
+
+"Citta' non valida" quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
+
