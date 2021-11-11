@@ -22,7 +22,7 @@ Nel diagramma riportato qui sopra (casi d'uso) vengono mostrate le possibili azi
 
 Nei diagrammi riportati qui sopra (sequenze) vengono illustrati i processi dinamici di interazione fra le classi ogni qualvolta che l'utente eseguirà una richiesta 
 
-![diag_classi](https://user-images.githubusercontent.com/75088702/141374756-ee841bcf-3196-49cf-8987-d7efaf068d32.png)
+![diag_classi (2)](https://user-images.githubusercontent.com/75088702/141374852-0f9f9868-8eff-415c-841e-1815da8e7aa4.png)
 
 Nel diagramma riportato qui sopra (classi) vengono mostrate tutti le classi del programma come sono organizzate tramite i package. All'interno di ogni classe sono specificati gli oggetti e i metodi che la compongono
 
