@@ -13,11 +13,14 @@ Visualizzare le statistiche dei lavori trovati. Richiede in ingresso la città d
 <b><i> Diagramma casi d'uso </i></b>
 ![Casi_d_uso](https://user-images.githubusercontent.com/75088702/141357338-0a809332-4f30-4667-b9a7-f1f3680e67e5.png)
 
+Nel diagramma riportato qui sopra (casi d'uso) vengono mostrate le possibili azioni che l'utente puoò svolgere, in base alle sue scelte il programma si comporterà di conseguenza 
+
 <b><i> Diagrammi delle sequenze </i></b>
 ![Sequenze_filtri](https://user-images.githubusercontent.com/75088702/141357700-9a6115d8-ac3d-46f8-b04c-112d05762b62.png)
 ![Sequenza_Statsg](https://user-images.githubusercontent.com/75088702/141358010-2745639c-6288-4da2-b647-435326acfc38.png)
 ![Sequenza_Stats](https://user-images.githubusercontent.com/75088702/141358121-2e2e3fcc-aa8c-4998-9037-1998ebc7b0c4.png)
 
+Nei diagrammi riportati qui sopra (sequenze) vengono illustrati i processi dinamici di interazione fra le classi ogni qualvolta che l'utente eseguirà una richiesta 
 
 # Rotte
 Le richieste che l'utente può effettuare tramite Postman devono essere effettuate all'indirizzo
