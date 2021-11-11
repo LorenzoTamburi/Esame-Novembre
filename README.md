@@ -48,3 +48,8 @@ Per quanto riguarda la rotta /alljobs abbiamo:
 
 "Citta' non valida" quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
 
+<b><i>Esempio</i></b>
+
+![Local_1](https://user-images.githubusercontent.com/75088702/141354799-4b2c7735-18fd-44e4-8d4e-8e5423e985ca.png)
+![Console_1](https://user-images.githubusercontent.com/75088702/141354823-55d52734-a9fd-4b7b-933e-8b01ab5b31c2.png)
+
