@@ -48,7 +48,7 @@ Per gestire le eccezioni abbiamo creato 3 classi: ApiRequestExceptions, Exceptio
 
 Per quanto riguarda la rotta /stats abbiamo:
 
-"Citta' non valida" quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
+<b><i>Citta' non valida</i></b> quando l'utente inserisce un città che non corrispoinde alle 5 sopra citate
 
 "Tipo linguaggio non valido" quando l'utente inserisce un linguaggio di programmazione che non corrispoinde ai 3 sopra citati
 
